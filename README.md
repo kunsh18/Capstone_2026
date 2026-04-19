@@ -40,4 +40,9 @@ The categorization taxonomy is strictly defined in **`Intent_class.xlsx`**. This
    *(Scripts like `process_videos.py` can be executed to parse the metadata and prepare the input tensors).*
 
 ---
+
+## References
+- **MintRec Framework**: [arXiv:2506.10011](https://arxiv.org/abs/2506.10011)
+- **Wavelet-based Multimodal Representation**: [arXiv:2403.10943](https://arxiv.org/abs/2403.10943)
+
 *Developed as part of the Capstone research encompassing MintRec and Wavelet-based Multimodal Intent Recognition.*
