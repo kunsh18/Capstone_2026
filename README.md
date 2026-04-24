@@ -59,8 +59,7 @@ Training uses a **custom** Hindi/Hinglish dataset aligned with scene videos.
 ### Installation
 
 ```bash
-git clone <your-repo-url>
-cd Capstone_Refined
+git clone https://github.com/kunsh18/Capstone_2026.git
 pip install -r requirements.txt
 ```
 
