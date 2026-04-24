@@ -1,4 +1,4 @@
-# Multimodal Intent Recognition for Hindi Corporate and Commercial Dialogues
+# An Approach for Decoding Commercial Intent Understanding
 
 ## Overview
 This project implements a **Multimodal Intent Recognition Framework** designed specifically for interpreting Hindi and Hinglish dialogues in corporate settings and commercial scenarios (e.g., grocery shops, office encounters). By leveraging multiple data modalities—**Video (Visuals), Audio (Acoustics), and Text (Transcripts)**—the model accurately captures and classifies the underlying intents behind conversational utterances.
